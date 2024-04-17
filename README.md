@@ -4,7 +4,7 @@ My name is Manoel Costa. Glad you're here.
 
 👀 **Interests:** I'm passionate about learning and exploring new technologies.
 
-🌱 **Currently learning:** I'm sharpening my skills as a Backend Developer with Java ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) and Oracle SQL ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?logo=oracle&logoColor=white).
+🌱 **Currently learning:** I'm sharpening my skills as a Backend Developer with ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) and ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?logo=oracle&logoColor=white).
 
 💞️ **Looking to collaborate:** I'm eager to collaborate on exciting projects where I can contribute my expertise and learn from others.
 
